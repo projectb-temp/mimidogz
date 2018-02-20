@@ -6,6 +6,7 @@ While researching different possibilities online, I found an article from the su
 I wanted a place online where I could upload and edit my version of the Invoke-Mimikatz.ps1, using the guidlines in the article.
 
 CREDITS
+
 Article was written by Carrie Roberts of BHIS
 https://www.blackhillsinfosec.com/bypass-anti-virus-run-mimikatz/
 
